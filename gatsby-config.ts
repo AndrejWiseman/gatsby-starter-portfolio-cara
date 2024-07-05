@@ -10,11 +10,11 @@ type PluginRef = {
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+    siteTitle: `Дада`,
+    siteTitleAlt: `Дада, подршка`,
+    siteHeadline: `Дада`,
     siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `Једна мала Данијелина подршка`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
@@ -29,8 +29,8 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
+        name: `Dada`,
+        short_name: `Dada`,
         description: `Danijelina podrska`,
         start_url: `/`,
         background_color: `#141821`,
